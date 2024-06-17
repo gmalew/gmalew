@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm SAP UI5/Fiori developer at @nypesap.
+I'm SAP UI5/Fiori developer at @[Nype](https://npe.cm).
 
 I have written blog posts on SAP Fiori and speak on conferences.
 
